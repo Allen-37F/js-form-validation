@@ -1,0 +1,9 @@
+
+.error1 {
+  visibility: hidden;
+}
+
+body {
+  background-image: url("../loginwallpaper.jpg");
+  background-size: 100%;
+}
